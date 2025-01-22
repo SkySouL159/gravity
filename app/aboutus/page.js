@@ -1,9 +1,9 @@
-import { Ourteam } from "@/Components/OurTeam";
 import Founders from "@/Components/ui/Founders";
 import React from "react";
 import SocialCards from "./Socialmedia";
 import Link from "next/link";
 import { Map } from "./Map";
+import { Ourteam } from "@/Components/Ourteam";
 
 const page = () => {
   return (
