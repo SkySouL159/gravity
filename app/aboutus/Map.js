@@ -4,7 +4,7 @@ import { PinContainer } from "@/Components/ui/3d-pin";
 
 export function Map() {
   return (
-    <div className="h-[20rem] w-80 flex flex-wrap items-center  lg:justify-end">
+    <div className="h-[20rem] w-72 flex items-center justify-center">
       <PinContainer
         title="Location of Gravity Films"
         href="https://maps.app.goo.gl/ya5vhXJA29HZLBN69"
